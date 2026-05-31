@@ -1,0 +1,15 @@
+question
+search in 2D sorted row col array
+eg 9
+
+case 1)
+            arr[mid]=target               return mid;
+case 2)        
+
+          arr[mid]<target   // 9<10
+	  row++
+
+case 3)   arr[mid]>targ    //17>10 
+	  col--
+
+
